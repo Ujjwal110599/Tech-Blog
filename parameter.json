@@ -1,0 +1,22 @@
+{
+  "param":
+  {
+    "local_server":"True",
+    "local_url":"mysql://root:@localhost/my_blog",
+    "prod_url":"mysql://root:@localhost/my_blog",
+    "fb_url":"https://www.facebook.com",
+    "tw_url":"https://twitter.com",
+    "gt_url":"https://github.com",
+    "blog_name": "Knock Out Enterprises",
+    "user_email": "ujjwalkumar37920@gmail.com",
+    "user_password": "U@99584426k",
+    "about_me": "Hey! I am UK ,an engineering student in Information technology currently studying at Bharti Vidyapeeth College Of Engineering. This website is created by me by using flask framework. I hope his page will help you to enhance your knowledge. Please contact freely. All your queries will be solved.",
+    "no_of_post": 5,
+    "user_name": "uk",
+    "password": "12345"
+
+
+  }
+
+
+}
